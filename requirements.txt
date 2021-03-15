@@ -1,0 +1,7 @@
+Django==2.2.19
+djangorestframework==3.12.2
+djangorestframework-datatables==0.6.0
+djangorestframework-simplejwt==4.3.0
+PyJWT==1.7.1
+pytz==2021.1
+sqlparse==0.4.1
